@@ -1,4 +1,6 @@
 site_name: Talus Bio @ ASMS
+site_url: https://talusbio.github.io/talusbio-at-asms
+description: ASMS presentations and events from Talus Bio and Collaborators
 
 theme:
   name: material
@@ -8,6 +10,8 @@ theme:
     text: IBM Plex Sans
   features:
      - toc.integrate
+  palette:
+    scheme: talusbio
 
 extra_css:
   - stylesheets/extra.css
@@ -24,4 +28,8 @@ extra:
 
 plugins:
   - search
-  - social
+  - social:
+      cards_layout_options:
+        background_color: "#001425"
+        color: "#FFFFFF"
+        font_family: "IBM Plex Sans"
