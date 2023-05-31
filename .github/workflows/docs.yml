@@ -23,5 +23,5 @@ jobs:
           sudo fc-cache -fv
           fc-match Montserrat
 
-      - run: pip install ".[docs]"
+      - run: pip install mkdocs mkdocs-material pillow cairosvg
       - run: mkdocs gh-deploy --force
