@@ -1,6 +1,6 @@
 site_name: Talus Bio @ ASMS
 site_url: https://talusbio.github.io/talusbio-at-asms
-description: ASMS presentations and events from Talus Bio and Collaborators
+site_description: ASMS presentations and events from Talus Bio and Collaborators
 
 theme:
   name: material
@@ -30,4 +30,6 @@ plugins:
   - search
   - social:
       cards_layout_options:
+        background_color: "#001425"
+        color: "#FFFFFF"
         font_family: "IBM Plex Sans"
