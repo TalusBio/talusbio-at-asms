@@ -30,6 +30,4 @@ plugins:
   - search
   - social:
       cards_layout_options:
-        background_color: "#001425"
-        color: "#FFFFFF"
         font_family: "IBM Plex Sans"
