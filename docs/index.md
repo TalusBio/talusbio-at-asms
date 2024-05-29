@@ -2,6 +2,36 @@
 description: "See what Talus Bio is up to at the American Society for Mass Spectrometry annual conference."
 ---
 
+# Presentations and Events at ASMS 2024
+
+## Talus Bio Presentations
+
+| Session                | Title                                                                                                                                                    | Presenter        |
+|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| EvoSep User Meeting    | High-Throughput Analysis of Transcription Factors Using 96-well Cell Culture, Drug Treatment, and Subcellular Fractionation                              | Julia Robbins    |
+| Bruker eXceed Symposia | Multiomics solutions for the post-genomic era: Proteomics Breakout Session “Profiling oncogenic transcription factors using mass spectrometry proteomics | Lindsay Pino     |
+| MOG                    | The Screen’s Gambit: Functional Chemoproteomics Accelerated by Compressed Sensing and Generative Models                                                  | Will Fondrie     |
+| MOH                    | Keep your friends close: Neighborhood based clustering for feature extraction in diaPASEF data                                                           | Sebastian Paez   |
+| WOF                    | Developing and optimizing mass spectrometry methods to improve detection of covalently modified peptides in complex lysates                              | Lindsay Pino     |
+| ThOH                   | TF-Scan: A high-throughput proteomics platform for transcription factor drug discovery                                                                   | Daniele Canzani  |
+| MP 070                 | Evaluating mass spectrometry strategies for deep proteome profiling with subcellular fractionation                                                       | Andrea Gutierrez |
+| TP 703                 | From seeding to separation: a 96-well format sample preparation protocol for cell-based high throughput proteomics                                       | Julia Robbins    |
+
+## Collaborator Presentations
+
+| Session | Title                                                                                                                                                           | Presenter       |
+|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| ThP 055 | Improved de novo peptide sequencing with higher quality training data                                                                                           | Melih Yilmaz    |
+| ThP 785 | ThP 785 The Association of Biomolecular Resource Facilities Proteomics Standards Research Group (sPRG) Multi-Species Standard to Assist Quantitative Proteomics | Susan Weintraub |
+
+## Other Events
+
+| Event               | Title                                                 | Organizers                                                                                                                          |
+|---------------------|-------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Short Course 04     | Machine Learning for Mass Spectrometry Data Analysis  | Wout Bittremieux, Will Fondrie                                                                                                      |
+| Tuesday Workship 06 | De Novo Peptide Sequencing Breakthroughs & Challenges | Melih Yilmaz, Konstantinos Kalogeropoulos, Wout Bittremieux, Will Fondrie, K. Eloff, Timothy Patrick Jenkins, A. Mabona, Bill Noble |
+
+
 # Presentations and Events at ASMS 2023
 
 ## Talus Bio Presentations
