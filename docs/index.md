@@ -2,6 +2,32 @@
 description: "See what Talus Bio is up to at the American Society for Mass Spectrometry annual conference."
 ---
 
+# Presentations and Events at ASMS 2025
+
+## Talus Bio Presentations
+
+| Session      | Title                                                                                                                                            | Presenter        |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- |
+| MP 224       | Evaluating and optimizing transcription factor targets for a high‑throughput mass spectrometry‑based drug discovery platform                     | Daniele Canzani  |
+| MP 225       | Profiling anthracycline toxicity and mechanisms in pediatric tumors using high‑throughput proteomics                                             | Julia Robbins    |
+| TP 188       | Timsbuktoolkit: Open‑source platform for on‑demand interactive peptide search on timsTOF DIA data                                                | Sebastian Paez   |
+| TP 198       | Extending LOD/LOQ Estimation and Quantitative Benchmarking for High‑Throughput Proteomics                                                        | Lindsay Pino     |
+| TP 244       | TACTICIAN: A Hierarchical Linear Model for Identifying Functional Hits, Target Engagement, and Combined Hits in Proteomics‑Driven Drug Discovery | Lilly Tatka      |
+| TP 510       | O Peptide Where Art Thou: A Recommender System to Find Missing Peptides Between Runs                                                             | Will Fondrie     |
+| WOH am 09:10 | High‑Throughput Quantification of Chromatin‑Associated Proteins to Advance Neuroblastoma Therapeutic Discovery                                   | Andrea Gutierrez |
+| ThP 289      | Enhancing an AI‑Driven Proteomics Drug Discovery Engine with Scalable Metadata Collection                                                        | Anastasiya Prymolenna |
+
+## Other Events
+
+| Event                 | Title                                                                                         | Organizers   |
+| --------------------- | --------------------------------------------------------------------------------------------- | ------------ |
+| Short Course 05       | Machine Learning for Mass Spectrometry Data Analysis                                          | Will Fondrie |
+| Monday Workshop 03    | Chemoproteomics: The Next Frontier for Drug Development (and More)                            | Lindsay Pino |
+| Tuesday Workshop 01   | De Novo Peptide Sequencing: Ready For Prime Time?                                             | Will Fondrie |
+| Wednesday Workshop 10 | Entrepreneurship in Mass Spectrometry: Non‑Traditional Pathways for Scientific Innovation     | Lindsay Pino |
+| Wednesday Workshop 02 | The Interface of Biomarker Discovery, Clinical Algorithm Development and Regulatory Oversight | Will Fondrie |
+
+
 # Presentations and Events at ASMS 2024
 
 ## Talus Bio Presentations
