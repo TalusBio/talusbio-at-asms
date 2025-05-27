@@ -2,9 +2,9 @@
 description: "See what Talus Bio is up to at the American Society for Mass Spectrometry annual conference."
 ---
 
-# Presentations and Events at ASMS 2025
+## Presentations and Events at ASMS 2025
 
-## Talus Bio Presentations
+### Talus Bio Presentations
 
 | Session      | Title                                                                                                                                            | Presenter        |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- |
@@ -17,7 +17,7 @@ description: "See what Talus Bio is up to at the American Society for Mass Spect
 | WOH am 09:10 | High‑Throughput Quantification of Chromatin‑Associated Proteins to Advance Neuroblastoma Therapeutic Discovery                                   | Andrea Gutierrez |
 | ThP 289      | Enhancing an AI‑Driven Proteomics Drug Discovery Engine with Scalable Metadata Collection                                                        | Anastasiya Prymolenna |
 
-## Other Events
+### Other Events
 
 | Event                 | Title                                                                                         | Organizers   |
 | --------------------- | --------------------------------------------------------------------------------------------- | ------------ |
@@ -28,9 +28,9 @@ description: "See what Talus Bio is up to at the American Society for Mass Spect
 | Wednesday Workshop 02 | The Interface of Biomarker Discovery, Clinical Algorithm Development and Regulatory Oversight | Will Fondrie |
 
 
-# Presentations and Events at ASMS 2024
+## Presentations and Events at ASMS 2024
 
-## Talus Bio Presentations
+### Talus Bio Presentations
 
 | Session                | Title                                                                                                                                                    | Presenter        |
 |------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
@@ -43,14 +43,14 @@ description: "See what Talus Bio is up to at the American Society for Mass Spect
 | MP 070                 | Evaluating mass spectrometry strategies for deep proteome profiling with subcellular fractionation                                                       | Andrea Gutierrez |
 | TP 703                 | From seeding to separation: a 96-well format sample preparation protocol for cell-based high throughput proteomics                                       | Julia Robbins    |
 
-## Collaborator Presentations
+### Collaborator Presentations
 
 | Session | Title                                                                                                                                                           | Presenter       |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
 | ThP 055 | Improved de novo peptide sequencing with higher quality training data                                                                                           | Melih Yilmaz    |
 | ThP 785 | ThP 785 The Association of Biomolecular Resource Facilities Proteomics Standards Research Group (sPRG) Multi-Species Standard to Assist Quantitative Proteomics | Susan Weintraub |
 
-## Other Events
+### Other Events
 
 | Event               | Title                                                 | Organizers                                                                                                                          |
 |---------------------|-------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
@@ -58,9 +58,9 @@ description: "See what Talus Bio is up to at the American Society for Mass Spect
 | Tuesday Workship 06 | De Novo Peptide Sequencing Breakthroughs & Challenges | Melih Yilmaz, Konstantinos Kalogeropoulos, Wout Bittremieux, Will Fondrie, K. Eloff, Timothy Patrick Jenkins, A. Mabona, Bill Noble |
 
 
-# Presentations and Events at ASMS 2023
+## Presentations and Events at ASMS 2023
 
-## Talus Bio Presentations
+### Talus Bio Presentations
 
 | Session     | Title                                                                                                                           | Presenter        |
 |-------------|---------------------------------------------------------------------------------------------------------------------------------|------------------|
@@ -73,7 +73,7 @@ description: "See what Talus Bio is up to at the American Society for Mass Spect
 | TP 043      | Diving deeper with depthcharge: A transformer deep learning framework for modeling mass spectrometry data                       | Will Fondrie     |
 | ThP 679     | How sweet it is: Leveraging the nuclear envelope glycome for the automated extraction of proteins from cell nuclei              | Julia Robbins    |
 
-## Collaborator Presentations
+### Collaborator Presentations
 
 | Session | Title                                                                                   | Presenter       |
 |---------|-----------------------------------------------------------------------------------------|-----------------|
@@ -81,7 +81,7 @@ description: "See what Talus Bio is up to at the American Society for Mass Spect
 | MP 192  | The Neuropeptide Neuroparsin-A Regulates Caretaking Behavior in Leafcutter Ants         | Michael Gilbert |
 | MP 369  | Crema: an open-source Python tool for target-decoy false discovery rate estimation      | Andy Lin        |
 
-## Other Events
+### Other Events
 
 | Event               | Title                                                | Organizers                                |
 |---------------------|------------------------------------------------------|-------------------------------------------|
