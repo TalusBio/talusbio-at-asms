@@ -2,6 +2,39 @@
 description: "See what Talus Bio is up to at the American Society for Mass Spectrometry annual conference."
 ---
 
+# Presentations and Events at ASMS 2026
+
+## Talus Bio Presentations
+
+| Session      | Title                                                                                                                                    | Presenter             |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| MOD am 09:10    | Discover covalent ligands for protein targets with Ptarmigan                                                                             | Will Fondrie          |
+| TOC am 10:10    | AI-guided screening rapidly discovers covalent modulators of STAT6 activity in cells                                                     | Andrea Gutierrez      |
+| TP 327        | An integrated platform for mass spectrometry data utilization in AI-guided drug discovery                                                | Anastasiya Prymolenna |
+| TOA pm 04:10    | Integrative regulome profiling of DNA damage responses to discover DNA repair-directed therapeutics in aging                             | Lindsay Pino          |
+| WP 245        | DIA-based chemoproteomics discovers covalent NONO inhibitors for metastatic castration-resistant prostate cancer                         | Daniele Canzani       |
+| WP 470        | Timsbuktoolkit Viewer: On-Demand Visualization of Peptide Signals in timsTOF DIA Data                                                    | Sebastian Paez        |
+| WP 058        | Toward Foundation Models of Cellular Regulatory State from Chromatin-Bound Proteomics                                                    | Lillian Tatka         |
+| WP 192        | There Will Be (peripheral) Blood (mononuclear cells): interrogating the inflammatory regulome across human donors and perturbations     | Julia Robbins         |
+| ThP 665       | Assessing Targeted Versus Untargeted Proteomics for Chemoproteomics Workflows Using a Sciex ZenoTOF 8600 System                         | Evan Hubbard          |
+
+## Collaborator Presentations
+
+| Session | Title                                                                                   | Presenter       |
+|---------|-----------------------------------------------------------------------------------------|-----------------|
+| MP 552     | Improved quantitation in data-independent acquisition proteomics via retention time boundary imputation | Lincoln Harris     |
+
+## Other Events
+
+| Event                     | Title                                                                                              | Organizers   |
+| ------------------------- | -------------------------------------------------------------------------------------------------- | ------------ |
+| Short Course 04           | Machine Learning for Mass Spectrometry Data Analysis                                               | Will Fondrie |
+| Sciex Breakfast Seminar   | Chromatogram-based chemoproteomics with the ZenoTOF 8600 system and Skyline                        | Lindsay Pino |
+| Sunday Workshop 04        | Entrepreneurship in Mass Spectrometry: Launching through Bootstrapping and Seed Stage Venture Capital | Lindsay Pino |
+| Monday Workshop 05        | Chemoproteomics: Analytical Rigor, Biological Interpretation, and Translational Application        | Lindsay Pino |
+| Tuesday Workshop 08       | De Novo Peptide Sequencing                                                                         | Will Fondrie |
+
+
 # Presentations and Events at ASMS 2025
 
 ## Talus Bio Presentations
