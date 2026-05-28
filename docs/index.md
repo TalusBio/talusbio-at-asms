@@ -29,10 +29,11 @@ description: "See what Talus Bio is up to at the American Society for Mass Spect
 | Event                     | Title                                                                                              | Organizers   |
 | ------------------------- | -------------------------------------------------------------------------------------------------- | ------------ |
 | Short Course 04           | Machine Learning for Mass Spectrometry Data Analysis                                               | Will Fondrie |
-| Sciex Breakfast Seminar   | Chromatogram-based chemoproteomics with the ZenoTOF 8600 system and Skyline                        | Lindsay Pino |
-| Sunday Workshop 04        | Entrepreneurship in Mass Spectrometry: Launching through Bootstrapping and Seed Stage Venture Capital | Lindsay Pino |
-| Monday Workshop 05        | Chemoproteomics: Analytical Rigor, Biological Interpretation, and Translational Application        | Lindsay Pino |
-| Tuesday Workshop 08       | De Novo Peptide Sequencing                                                                         | Will Fondrie |
+| Monday, Sciex Breakfast Seminar   | Chromatogram-based chemoproteomics with the ZenoTOF 8600 system and Skyline                | Lindsay Pino |
+| Monday Workshop 04        | Entrepreneurship in Mass Spectrometry: Launching through Bootstrapping and Seed Stage Venture Capital | Lindsay Pino |
+| Tuesday Workshop 05        | Chemoproteomics: Analytical Rigor, Biological Interpretation, and Translational Application        | Lindsay Pino |
+| Wednesday Workshop 08       | De Novo Peptide Sequencing                                                                         | Will Fondrie |
+
 
 
 # Presentations and Events at ASMS 2025
